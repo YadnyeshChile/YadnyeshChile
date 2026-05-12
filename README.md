@@ -30,7 +30,7 @@ Motivated Computer Engineering diploma student with hands-on experience in **fro
 
 **💻 Tech Stack**
 
-**Languages**
+**Languages**<br>
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
@@ -38,7 +38,7 @@ Motivated Computer Engineering diploma student with hands-on experience in **fro
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-**Frameworks & Libraries**
+**Frameworks & Libraries**<br>
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
@@ -48,13 +48,13 @@ Motivated Computer Engineering diploma student with hands-on experience in **fro
 
 <div align="center">
 
-**📈 Overall Stats**
+**📈 Overall Stats**<br>
 ![](https://github-readme-stats.shion.dev/api?username=YadnyeshChile&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true)
 
-**🔥 Contribution Streak**
+**🔥 Contribution Streak**<br>
 ![](https://streak-stats.demolab.com/?user=YadnyeshChile&theme=codeSTACKr&hide_border=false)
 
-**🛠️ Most Used Languages**
+**🛠️ Most Used Languages**<br>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=YadnyeshChile&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
